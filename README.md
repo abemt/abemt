@@ -10,7 +10,7 @@ reasons automations break in production.
 
 | Project | Stack | Live |
 |---|---|---|
-| [AI Workflow Automation Suite](https://github.com/abemt/ai-automation-suite) | n8n · Gemini API · Docker · Cloudflare Tunnel | self-hosted |
+| [AI Workflow Automation Suite](https://github.com/abemt/ai-automation-suite) | n8n · Gemini API · Docker · Cloudflare Tunnel | [automations.abemt.dev](https://automations.abemt.dev) |
 | [Luxe Performance Store](https://github.com/abemt/High-Performance-WooCommerce-Store-for-an-Online-Retailer-main) | React · WooCommerce · REST API | [woocomerce.abemt.dev](https://woocomerce.abemt.dev) |
 | [Digital Agency Showcase](https://github.com/abemt/Custom-WordPress-Theme-and-Plugin-Suite-for-a-Digital-Agency-main) | WordPress · custom themes/plugins · Gutenberg | [wordpress.abemt.dev](https://wordpress.abemt.dev) |
 | [SaaS Analytics Dashboard](https://github.com/abemt/saas-user-analytics-dashboard) | React · Recharts · Laravel API | [saas.abemt.dev](https://saas.abemt.dev) |
